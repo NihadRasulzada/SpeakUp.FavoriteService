@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakUp.FavoriteService", "SpeakUp.FavoriteService\SpeakUp.FavoriteService.csproj", "{F49FF1F3-CCC1-4ED1-99D7-D38CB14A35AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49FF1F3-CCC1-4ED1-99D7-D38CB14A35AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49FF1F3-CCC1-4ED1-99D7-D38CB14A35AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49FF1F3-CCC1-4ED1-99D7-D38CB14A35AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49FF1F3-CCC1-4ED1-99D7-D38CB14A35AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
